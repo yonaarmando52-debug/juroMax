@@ -1,0 +1,6 @@
+{
+  "name": "JuroMax",
+  "description": "Calculadora de juros compostos e planejamento financeiro moderno",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
